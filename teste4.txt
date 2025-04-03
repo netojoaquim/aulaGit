@@ -1,1 +1,2 @@
 Algum texto na branch cadastro.
+Modificação na branch.
